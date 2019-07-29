@@ -1,0 +1,75 @@
+#score {
+  width: 100%;
+}
+
+#score .player {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #000;
+  font-family: 'Hammersmith One', Arial, sans-serif;
+  font-weight: 400;
+
+  &.winner {
+    background-color: gold;
+  }
+
+  h3 {
+    margin: 0;
+    font-weight: 400;
+  }
+
+  .points {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+
+  .destinations {
+    font-size: 14px;
+    .completed {
+      color: green;
+    }
+    .failed {
+      color: red;
+      text-decoration: line-through;
+    }
+  }
+
+  .destinations span {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 3px 3px 3px;
+    padding: 2px 4px;
+    background-color: #666;
+    color: #fff;
+    line-height: 1;
+    white-space: nowrap;
+
+    .icon {
+      display: inline-block;
+      vertical-align: text-top;
+      width: 14px;
+      height: 14px;
+      border-radius: 2px;
+      background-image: url('../../assets/ic_star_white_18px.svg');
+      background-position: center center;
+      line-height: 1;
+    }
+  }
+
+  .points-bar {
+    padding: 0 10px;
+    flex-grow: 1;
+    .bar {
+      height: 2em;
+      background-color: green;
+    }
+  }
+
+  .total-points {
+    font-size: 24px;
+  }
+}
