@@ -79,6 +79,37 @@ const DESTINATIONS = [
         end: 'san-pietro',
         points: 4,
     },
+    {
+        start: 'cipro',
+        end: 'talenti',
+        points: 24,
+    },
+    {
+        start: 'laurentina',
+        end: 'pigneto',
+        points: 18,
+    },
+    {
+        start: 'buenos-aires',
+        end: 'trastevere',
+        points: 8,
+    },
+    {
+        start: 'pigneto',
+        end: 'agricolthura',
+        points: 16,
+    },
+    {
+        start: 'pantano',
+        end: 'pietralata',
+        points: 20,
+    },
+    {
+        start: 'talenti',
+        end: 'colosseo',
+        points: 14,
+    },
+
 ];
 
 module.exports = {
