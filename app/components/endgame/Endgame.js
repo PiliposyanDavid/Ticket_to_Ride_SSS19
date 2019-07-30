@@ -50,20 +50,8 @@ export default class Endgame {
         points: 35,
         destinations: [
           {
-            id: '11111',
-            name: 'Termini - Rebibbia',
-            points: 10,
-            completed: true,
-          },
-          {
-            id: '22222',
-            name: 'Ottaviano - Battistini',
-            points: 3,
-            completed: false,
-          },
-          {
             id: '33333',
-            name: 'Ojetti - Venezia',
+            name: 'Tovuz - Abovyan',
             points: 15,
             completed: true,
           },
@@ -75,20 +63,8 @@ export default class Endgame {
         points: 81,
         destinations: [
           {
-            id: '44444',
-            name: 'Termini - Rebibbia',
-            points: 10,
-            completed: false,
-          },
-          {
-            id: '55555',
-            name: 'Ottaviano - Battistini',
-            points: 3,
-            completed: false,
-          },
-          {
             id: '66666',
-            name: 'Ojetti - Venezia',
+            name: 'Tovuz - Abovyan',
             points: 15,
             completed: false,
           },
@@ -100,20 +76,8 @@ export default class Endgame {
         points: 57,
         destinations: [
           {
-            id: '77777',
-            name: 'Termini - Rebibbia',
-            points: 10,
-            completed: true,
-          },
-          {
-            id: '88888',
-            name: 'Ottaviano - Battistini',
-            points: 3,
-            completed: false,
-          },
-          {
             id: '99999',
-            name: 'Ojetti - Venezia',
+            name: 'Tovuz - Abovyan',
             points: 15,
             completed: false,
           },

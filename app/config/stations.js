@@ -1,150 +1,90 @@
 export const STATIONS = [
   {
-    slug: 'termini', name: 'Termini',
-    x: 218, y: 159,
-  },
-  {
-    slug: 'colosseo', name: 'Colosseo',
+    slug: 'erevan', name: 'Erevan',
     x: 206, y: 199,
   },
   {
-    slug: 'spagna', name: 'Spagna',
-    x: 174, y: 143,
-  },
-  {
-    slug: 'venezia', name: 'Venezia',
+    slug: 'abovyan', name: 'Abovyan',
     x: 174, y: 179,
   },
   {
-    slug: 'ottaviano', name: 'Ottaviano',
+    slug: 'artik', name: 'Artik',
     x: 118, y: 127,
   },
   {
-    slug: 'clodio-mazzini', name: 'Clodio-Mazzini',
+    slug: 'gyumri', name: 'Gyumri',
     x: 118, y: 95,
   },
   {
-    slug: 'cipro', name: 'Cipro',
-    x: 80, y: 131,
-  },
-  {
-    slug: 'battistini', name: 'Battistini',
-    x: 16, y: 135,
-  },
-  {
-    slug: 'san-pietro', name: 'San Pietro',
+    slug: 'vagarshapat', name: 'Vagarshapat',
     x: 110, y: 171,
   },
   {
-    slug: 'buenos-aires', name: 'Buenos Aires',
-    x: 218, y: 119,
-  },
-  {
-    slug: 'vescovio', name: 'Vescovio',
+    slug: 'vanadzor', name: 'Vanadzor',
     x: 246, y: 67,
   },
   {
-    slug: 'jonio', name: 'Jonio',
+    slug: 'alaverdi', name: 'Alaverdi',
     x: 294, y: 15,
   },
   {
-    slug: 'talenti', name: 'Talenti',
+    slug: 'gosh', name: 'Gosh',
     x: 350, y: 39,
   },
   {
-    slug: 'ojetti', name: 'Ojetti',
+    slug: 'tovuz', name: 'Tovuz',
     x: 385, y: 15,
   },
   {
-    slug: 'conca-d-oro', name: 'Conca d\'Oro',
-    x: 294, y: 43,
-  },
-  {
-    slug: 'bologna', name: 'Bologna',
+    slug: 'dilijan', name: 'Dilijan',
     x: 282, y: 127,
   },
   {
-    slug: 'policlinico', name: 'Policlinico',
-    x: 245, y: 130,
-  },
-  {
-    slug: 'tiburtina', name: 'Tiburtina',
+    slug: 'sevan', name: 'Sevan',
     x: 318, y: 135,
   },
   {
-    slug: 'pietralata', name: 'Pietralata',
-    x: 378, y: 123,
-  },
-  {
-    slug: 'rebibbia', name: 'Rebibbia',
-    x: 426, y: 95,
-  },
-  {
-    slug: 'piramide', name: 'Piramide',
+    slug: 'vedi', name: 'Vedi',
     x: 186, y: 235,
   },
   {
-    slug: 'trastevere', name: 'Trastevere',
-    x: 146, y: 240,
-  },
-  {
-    slug: 'basilica-s-paolo', name: 'Basilica S. Paolo',
-    x: 182, y: 279,
-  },
-  {
-    slug: 'roma-tre', name: 'Roma Tre',
-    x: 145, y: 275,
-  },
-  {
-    slug: 'eur-magliana', name: 'EUR Magliana',
-    x: 150, y: 311,
-  },
-  {
-    slug: 'agricoltura', name: 'Agricoltura',
-    x: 182, y: 315,
-  },
-  {
-    slug: 'laurentina', name: 'Laurentina',
-    x: 206, y: 350,
-  },
-  {
-    slug: 's-giovanni', name: 'S. Giovanni',
+    slug: 'garni', name: 'Garni',
     x: 254, y: 211,
   },
   {
-    slug: 'pigneto', name: 'Pigneto',
+    slug: 'gavar', name: 'Gavar',
     x: 310, y: 195,
   },
   {
-    slug: 'parco-di-centocelle', name: 'Parco di Centocelle',
+    slug: 'martuni', name: 'Martuni',
     x: 390, y: 219,
   },
   {
-    slug: 'grotte-celoni', name: 'Grotte Celoni',
+    slug: 'vardenis', name: 'Vardenis',
     x: 518, y: 231,
   },
   {
-    slug: 'pantano', name: 'Pantano',
+    slug: 'qelbajar', name: 'Qelbajar',
     x: 600, y: 227,
   },
   {
-    slug: 'ponte-lungo', name: 'Ponte Lungo',
+    slug: 'areni', name: 'Areni',
     x: 286, y: 235,
   },
   {
-    slug: 'arco-di-travertino', name: 'Arco di Travertino',
+    slug: 'jermuk', name: 'Jermuk',
     x: 330, y: 260,
   },
   {
-    slug: 'numidio-quadrato', name: 'Numidio Quadrato',
+    slug: 'sisian', name: 'Sisian',
     x: 370, y: 267,
   },
   {
-    slug: 'subaugusta', name: 'Subaugusta',
+    slug: 'tatev', name: 'Tatev',
     x: 422, y: 283,
   },
   {
-    slug: 'anagnina', name: 'Anagnina',
+    slug: 'kapan', name: 'Kapan',
     x: 466, y: 303,
   },
 ];
