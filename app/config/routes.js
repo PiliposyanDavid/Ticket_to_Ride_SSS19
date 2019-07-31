@@ -1,7 +1,11 @@
 export const ROUTES = [
+    {
+        start: 'dilijan', end: 'vanadzor',
+        type: 'red', parts: 3,
+    },
   {
     start: 'abovyan', end: 'erevan',
-    type: 'green', parts: 1,
+    type: 'green', parts: 2,
   },
   {
     start: 'gyumri', end: 'artik',
